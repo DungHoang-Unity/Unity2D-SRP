@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "246752601569",
+    "firebase_url": "https://unity2d-srp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "unity2d-srp",
+    "storage_bucket": "unity2d-srp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246752601569:android:773f04c37f94fd8b305ea0",
+        "android_client_info": {
+          "package_name": "com.endlessadventure.game2d"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA9DbH0xIjc9dyTByyz_sj-fzKKp6D1Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
