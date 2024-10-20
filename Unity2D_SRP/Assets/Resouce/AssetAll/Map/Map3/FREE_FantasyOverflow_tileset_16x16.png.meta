@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -106,9 +106,316 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 631
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583590e698b356b44ad4fb01158668c0
+      internalID: 1569250893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 664
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585b1cdebbfd2cd488954e674a029b5a
+      internalID: 1361062742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 616
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dad30244b78b348be0ad8177a98edc
+      internalID: 384788678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 621
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c81b64997452a74ab8ece86a12d1b2f
+      internalID: 1457572276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 617
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b539430de1c91499fce389abb21807
+      internalID: -1803503301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 616
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae14aa1f7f58fc44b0d7d1a7bc55538
+      internalID: 1486496701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 602
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cca7bb001c886a4393979c6d1830f8b
+      internalID: 1729932837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 602
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6726137a6eab74849920451e2332fbc5
+      internalID: 423033247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 602
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa47c67ea8f27a4192223c341f3a3c2
+      internalID: 547649016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909fb8061f0c2a445a0a123c0565e754
+      internalID: -1540995443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 520
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163949bec3f09d64e84d7298aadc255e
+      internalID: -665040419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 536
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734a684b0b50dc34f9a502bbc7f3c2e1
+      internalID: 52684892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 201
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18886d961e53d42449c918723fad6761
+      internalID: -1411976773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FREE_FantasyOverflow_tileset_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 65, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def553d38b515d74e8c9f3ab764efd45
+      internalID: -467390416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +426,21 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      FREE_FantasyOverflow_tileset_16x16_0: 1569250893
+      FREE_FantasyOverflow_tileset_16x16_1: 1361062742
+      FREE_FantasyOverflow_tileset_16x16_10: -665040419
+      FREE_FantasyOverflow_tileset_16x16_11: 52684892
+      FREE_FantasyOverflow_tileset_16x16_12: -1411976773
+      FREE_FantasyOverflow_tileset_16x16_13: -467390416
+      FREE_FantasyOverflow_tileset_16x16_2: 384788678
+      FREE_FantasyOverflow_tileset_16x16_3: 1457572276
+      FREE_FantasyOverflow_tileset_16x16_4: -1803503301
+      FREE_FantasyOverflow_tileset_16x16_5: 1486496701
+      FREE_FantasyOverflow_tileset_16x16_6: 1729932837
+      FREE_FantasyOverflow_tileset_16x16_7: 423033247
+      FREE_FantasyOverflow_tileset_16x16_8: 547649016
+      FREE_FantasyOverflow_tileset_16x16_9: -1540995443
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
